@@ -1,7 +1,6 @@
 Hi 👋 My name is Resul
 ======================
 
------------------------------------
 
 * ✉️  You can contact me at [resulbeser1@gmail.com](mailto:resulbeser1@gmail.com)
 
